@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @brunabellini
-- 👀 I’m interested in discovering python tricks for data science
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on some fun and exciting challenges 
-- 📫 How to reach me bru3006@gmail.com 
+I’m currently learning and studying Python for data science
+
+📫 bru3006@gmail.com 
 
 <!---
 brunabellini/brunabellini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
