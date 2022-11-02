@@ -8,7 +8,7 @@ Goals: create and collaborate in new projects, also explore the advances in the 
 
 ## About me 
 
-Linkedin: https://www.linkedin.com/in/bruna-bellini-faria-3ba43b218/
+Linkedin: https://www.linkedin.com/in/brunabellinifaria/
 
 Gmail: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
